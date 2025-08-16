@@ -2,6 +2,7 @@
 
 ![App Screenshot](assets/images/screen_shot.png)
 
+
 A Flutter video calling application using GetStream's Stream Video SDK with advanced features.
 
 ## 🚀 Project Overview
