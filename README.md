@@ -1,6 +1,6 @@
 # GetStream Video Call App
 
-![App Screenshot](app_screenshot.png)
+![App Screenshot](assets/images/screen_shot.png)
 
 A Flutter video calling application using GetStream's Stream Video SDK with advanced features.
 
